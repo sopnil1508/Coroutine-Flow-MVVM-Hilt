@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.sopnilshinde.kotlinflowdemo"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.sopnilshinde.kotlinflowdemo"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
